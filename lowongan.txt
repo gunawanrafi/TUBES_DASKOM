@@ -1,0 +1,27 @@
+Nama Perusahaan: Telkom
+Posisi Pekerjaan: VP
+Gaji: 1000000.00
+Tanggal Dibuka: 2024-12-10
+Tanggal Ditutup: 
+Persyaratan 1: 2024-12-10
+Persyaratan 2: 
+Persyaratan 3: 
+
+Nama Perusahaan: Telkom
+Posisi Pekerjaan: vp
+Gaji: 100000.00
+Tanggal Dibuka: 7389837
+Tanggal Ditutup: 8932872332
+Persyaratan 1: 
+Persyaratan 2: 23
+Persyaratan 3: 
+
+Nama Perusahaan: Telkom
+Posisi Pekerjaan: VP
+ Gaji: 0.00
+Tanggal Dibuka: ˜û>V
+Tanggal Ditutup: ,ı
+Persyaratan 1: 
+Persyaratan 2: 
+Persyaratan 3: 
+
